@@ -1,0 +1,8 @@
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\bin\Debug\EvanGomoku.exe
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\bin\Debug\EvanGomoku.pdb
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\obj\Debug\EvanGomoku.csprojResolveAssemblyReference.cache
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\obj\Debug\EvanGomoku.MainForm.resources
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\obj\Debug\EvanGomoku.Properties.Resources.resources
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\obj\Debug\EvanGomoku.csproj.GenerateResource.Cache
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\obj\Debug\EvanGomoku.exe
+D:\0Data\visual studio 2013\Projects\EvanGomoku\EvanGomoku\obj\Debug\EvanGomoku.pdb
